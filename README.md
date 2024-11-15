@@ -21,16 +21,15 @@ Technologies Used :
 Usage: 
 1. For Users:
 
-1.1. Register and log in to your account.
-1.2. Browse available services and select your preferred time slots.
-1.3. Complete the booking process (optional: pay for the service).
-1.4 Receive email confirmations and reminders for your appointments.
-
+   1.1. Register and log in to your account.
+   1.2. Browse available services and select your preferred time slots.
+   1.3. Complete the booking process (optional: pay for the service).
+   1.4 Receive email confirmations and reminders for your appointments.
 2. For Admins:
 
-2.1. Log in to the admin dashboard.
-2.2. Manage users, services, and view current bookings.
-2.3. Set service availability and business hours.
+   2.1. Log in to the admin dashboard.
+   2.2. Manage users, services, and view current bookings.
+   2.3. Set service availability and business hours.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
