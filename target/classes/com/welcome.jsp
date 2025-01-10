@@ -17,7 +17,7 @@
     <br><br>
     <h2>Welcome User</h2>
   <div class="mt-4 p-5 bg-primary text-white rounded">
-    <h1>User Managemengt Application</h1> 
+    <h1>Online Booking System</h1> 
   
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat..</p> 
   </div>
